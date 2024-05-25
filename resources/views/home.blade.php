@@ -13,6 +13,23 @@
             </a>
             <h1 class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">My Current Events</h1>
             <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Currently you don't have any active events right now</p>
+            
+            {{-- masukin active event --}}
+            <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800 mb-6">
+                <div class="px-4 py-2">
+                    <h1 class="text-xl font-bold text-gray-800 dark:text-white">Ancol Beach Cleaning</h1>
+                    <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
+                </div>
+            
+                <img class="object-cover w-full h-48 mt-2" src="/assets/volunteer/volunteer-1.png" alt="NIKE AIR">
+            
+                <div class="flex items-center justify-between px-4 py-2 bg-blue-700">
+                    <h1 class="text-lg font-bold text-white">100 Points</h1>
+                    <button class="px-2 py-1 text-xs font-semibold text-gray-900    transition-colors duration-300 transform bg-white rounded hover:bg-gray-200 focus:bg-gray-400 focus:outline-none">Go to Event</button>
+                </div>
+            </div>
+            
+            {{-- tombol event --}}
             <a href="/events" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                 Join/Create Event
                 <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
