@@ -30,6 +30,12 @@ class PageController extends Controller
         ]);
     }
 
+    public function viewNewEvents(){
+        return view('new-event', [
+            'title' => "New Event"
+        ]);
+    }
+
     public function viewRecruitment(){
         return view('recruitment', [
             'title' => "Recruitment"
@@ -51,6 +57,12 @@ class PageController extends Controller
     public function viewProfile(){
         return view('profile', [
             'title' => "Profile"
+        ]);
+    }
+
+    public function viewRecruitmentDetail(){
+        return view('recruitment-detail', [
+            'title' => "Recruitment Detail"
         ]);
     }
 }

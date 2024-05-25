@@ -1,11 +1,12 @@
 <?php
 
+use App\Http\Controllers\EventController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\UserController;
 use App\Models\User;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', [PageController::class, 'viewHome']);
+Route::get('/', [PageController::class, 'viewLogin']);
 Route::get('/home', [PageController::class, 'viewHome']);
 
 Route::get('/register', [PageController::class, 'viewRegister']);
@@ -21,6 +22,7 @@ Route::get('/recruitment', [PageController::class, 'viewRecruitment']);
 Route::get('/store', [PageController::class, 'viewStore']);
 Route::get('/ranking', [PageController::class, 'viewRanking']);
 Route::get('/profile', [PageController::class, 'viewProfile']);
+Route::get('/recruitment/detail', [PageController::class, 'viewRecruitmentDetail']);
 
 // Testing
 Route::get('/test', function () {
@@ -33,3 +35,7 @@ Route::get('/test', function () {
         echo "No ranking found for the user.";
     }
 });
+
+Route::get('/events', [EventController::class, 'showEvents']);
+Route::get('/events/new-event', [PageController::class, 'viewNewEvents']);
+Route::post('/events/new-event/create-event', [EventController::class, 'createEvent'])->name('createEvent');

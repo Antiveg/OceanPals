@@ -50,5 +50,9 @@ class User extends Authenticatable
         return $this->hasOne(Rankings::class, 'UserID', 'id');
     }
 
+    public function events()
+    {
+        return $this->hasMany(Events::class, 'UserID', 'id');
+    }
     
 }

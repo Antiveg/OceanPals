@@ -7,16 +7,16 @@
             </a>
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
                 <li>
-                    <a href="#" class="hover:underline me-4 md:me-6">About</a>
+                    <a href="/home" class="hover:underline me-4 md:me-6">Home</a>
                 </li>
                 <li>
-                    <a href="#" class="hover:underline me-4 md:me-6">Privacy Policy</a>
+                    <a href="/events" class="hover:underline me-4 md:me-6">Events</a>
                 </li>
                 <li>
-                    <a href="#" class="hover:underline me-4 md:me-6">Licensing</a>
+                    <a href="/recruitment" class="hover:underline me-4 md:me-6">Recruitment</a>
                 </li>
                 <li>
-                    <a href="#" class="hover:underline">Contact</a>
+                    <a href="/store" class="hover:underline">Store</a>
                 </li>
             </ul>
         </div>
