@@ -45,10 +45,10 @@
                     <svg class="w-2.5 h-2.5 me-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 18 18">
                         <path d="M17 11h-2.722L8 17.278a5.512 5.512 0 0 1-.9.722H17a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1ZM6 0H1a1 1 0 0 0-1 1v13.5a3.5 3.5 0 1 0 7 0V1a1 1 0 0 0-1-1ZM3.5 15.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2ZM16.132 4.9 12.6 1.368a1 1 0 0 0-1.414 0L9 3.55v9.9l7.132-7.132a1 1 0 0 0 0-1.418Z"/>
                     </svg>
-                    Points
+                    Weight
                 </a>
-                <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">My Points</h2>
-                <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">See your cumulative points count</p>
+                <h2 class="text-gray-900 dark:text-white text-3xl font-extrabold mb-2">Waste Weight</h2>
+                <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">Report your waste weight here!</p>
                 <p class="text-7xl font-normal text-gray-500 dark:text-gray-400 mb-4">{{ Auth::user()->points }}</p>
                 <a href="/store" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Redeem your points
                     <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">

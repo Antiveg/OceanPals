@@ -36,6 +36,12 @@ class PageController extends Controller
         ]);
     }
 
+    public function viewEventDashboard(){
+        return view('event-dashboard', [
+            'title' => "Event Dashboard"
+        ]);
+    }
+
     public function viewRecruitment(){
         return view('recruitment', [
             'title' => "Recruitment"

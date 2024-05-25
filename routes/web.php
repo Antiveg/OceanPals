@@ -18,13 +18,15 @@ Route::post('/login/auth', [UserController::class, 'authLogin'])->name('authLogi
 Route::get('authLogout', [UserController::class, 'authLogout'])->name('authLogout');
 
 Route::get('/events', [PageController::class, 'viewEvents']);
+Route::get('/events/dashboard', [PageController::class, 'viewEventDashboard']);
 Route::get('/recruitment', [PageController::class, 'viewRecruitment']);
+Route::get('/recruitment/detail', [PageController::class, 'viewRecruitmentDetail']);
 Route::get('/training', [PageController::class, 'viewTraining']);
 Route::get('/training/detail', [PageController::class, 'viewTrainingDetail']);
 Route::get('/store', [PageController::class, 'viewStore']);
 Route::get('/ranking', [PageController::class, 'viewRanking']);
 Route::get('/profile', [PageController::class, 'viewProfile']);
-Route::get('/recruitment/detail', [PageController::class, 'viewRecruitmentDetail']);
+
 
 // Testing
 Route::get('/test', function () {
