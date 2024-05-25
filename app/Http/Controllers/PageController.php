@@ -65,4 +65,16 @@ class PageController extends Controller
             'title' => "Recruitment Detail"
         ]);
     }
+
+    public function viewTraining(){
+        return view('training', [
+            'title' => "Training"
+        ]);
+    }
+
+    public function viewTrainingDetail(){
+        return view('training-detail', [
+            'title' => "Training Detail"
+        ]);
+    }
 }

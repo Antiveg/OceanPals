@@ -19,6 +19,8 @@ Route::get('authLogout', [UserController::class, 'authLogout'])->name('authLogou
 
 Route::get('/events', [PageController::class, 'viewEvents']);
 Route::get('/recruitment', [PageController::class, 'viewRecruitment']);
+Route::get('/training', [PageController::class, 'viewTraining']);
+Route::get('/training/detail', [PageController::class, 'viewTrainingDetail']);
 Route::get('/store', [PageController::class, 'viewStore']);
 Route::get('/ranking', [PageController::class, 'viewRanking']);
 Route::get('/profile', [PageController::class, 'viewProfile']);
