@@ -17,27 +17,26 @@
 
         <div class="grid grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3">
             <div>
-                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
+                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="/assets/training/training-1.png" alt="">
 
                 <div class="mt-8">
-                    <span class="text-blue-500 uppercase">category</span>
+                    <span class="text-blue-500 uppercase">Environment</span>
 
                     <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-                        What do you want to know about UI
+                        Proper Ways to Clean Beaches
                     </h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam est asperiores vel, ab animi
-                        recusandae nulla veritatis id tempore sapiente
+                        Cara membersihkan pantai yang benar dan efektif. Mulai dari pemilahan sampah, alat yang relevan, dan koordinasi tim.
                     </p>
 
                     <div class="flex items-center justify-between mt-4">
                         <div>
                             <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
-                                John snow
+                                Aurelia Puspita, Marketing Lead
                             </a>
 
-                            <p class="text-sm text-gray-500 dark:text-gray-400">February 1, 2022</p>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">May 22, 2024</p>
                         </div>
 
                         <a href="/training/detail" class="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
@@ -47,26 +46,25 @@
             </div>
 
             <div>
-                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
+                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="/assets/training/training-2.png" alt="">
 
                 <div class="mt-8">
-                    <span class="text-blue-500 uppercase">category</span>
+                    <span class="text-blue-500 uppercase">Technology</span>
 
                     <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-                        All the features you want to know</h1>
+                        Getting Started with OceanPals</h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam est asperiores vel, ab animi
-                        recusandae nulla veritatis id tempore sapiente
+                        Cara menggunakan aplikasi ini “OceanPals” untuk menemukan kegiatan sukarelawan yang sesuai bagi mu dan memaksimalkan kontribusi masyarakat
                     </p>
 
                     <div class="flex items-center justify-between mt-4">
                         <div>
                             <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
-                                Arthur Melo
+                                Christopher H.G, IT Team
                             </a>
 
-                            <p class="text-sm text-gray-500 dark:text-gray-400">February 6, 2022</p>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">April 30, 2024</p>
                         </div>
 
                         <a href="/training/detail" class="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>
@@ -76,27 +74,26 @@
             </div>
 
             <div>
-                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="https://images.unsplash.com/photo-1597534458220-9fb4969f2df5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="">
+                <img class="object-cover object-center w-full h-64 rounded-lg lg:h-80" src="/assets/training/training-3.png" alt="">
 
                 <div class="mt-8">
-                    <span class="text-blue-500 uppercase">category</span>
+                    <span class="text-blue-500 uppercase">Environment</span>
 
                     <h1 class="mt-4 text-xl font-semibold text-gray-800 dark:text-white">
-                        Which services you get from Meraki UI
+                        Systems of Garbage Sorting
                     </h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam est asperiores vel, ab animi
-                        recusandae nulla veritatis id tempore sapiente
+                        Pemahaman mendalam tentang sistem pemilahan sampah, mulai dari sampah organik, anorganik, dan banyak kategori sampah lainnya.
                     </p>
 
                     <div class="flex items-center justify-between mt-4">
                         <div>
                             <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-300 hover:underline hover:text-gray-500">
-                                Tom Hank
+                                Stanic Dylan, EO
                             </a>
 
-                            <p class="text-sm text-gray-500 dark:text-gray-400">February 19, 2022</p>
+                            <p class="text-sm text-gray-500 dark:text-gray-400">April 19, 2024</p>
                         </div>
 
                         <a href="/training/detail" class="inline-block text-blue-500 underline hover:text-blue-400">Read more</a>

@@ -44,7 +44,7 @@
                             <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Ancol is known busy for its tourist around Jakarta people, but the waste here is very large! Help us to clean it by joining!</p>
                         </div>
                         <img class="object-cover w-full h-48 mt-2" src="/assets/volunteer/volunteer-1.png" alt="event name">
-                        <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
+                        <div class="flex items-center justify-between px-4 py-2 bg-blue-700">
                             <h1 class="text-lg font-bold text-white">100 pt</h1>
                             <button class="px-2 py-1 text-xs font-semibold text-gray-900 transition-colors duration-300 transform bg-white rounded hover:bg-gray-200 focus:bg-gray-400 focus:outline-none"><a href="/events/detail">Go to event</a></button>
                         </div>
@@ -61,7 +61,7 @@
                             <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Embark a journey to Nusa Tenggara, where beautiful paradise needs your help</p>
                         </div>
                         <img class="object-cover w-full h-48 mt-2" src="/assets/volunteer/volunteer-2.png" alt="event name">
-                        <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
+                        <div class="flex items-center justify-between px-4 py-2 bg-blue-700">
                             <h1 class="text-lg font-bold text-white">200 pt</h1>
                             <button class="px-2 py-1 text-xs font-semibold text-gray-900 transition-colors duration-300 transform bg-white rounded hover:bg-gray-200 focus:bg-gray-400 focus:outline-none"><a href="/events/detail">Go to event</a></button>
                         </div>
@@ -78,7 +78,7 @@
                             <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Help us keep Bali's beaches clean and beautiful. Join our beach cleanup event!</p>
                         </div>
                         <img class="object-cover w-full h-48 mt-2" src="/assets/volunteer/volunteer-3.png" alt="event name">
-                        <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
+                        <div class="flex items-center justify-between px-4 py-2 bg-blue-700">
                             <h1 class="text-lg font-bold text-white">100 pt</h1>
                             <button class="px-2 py-1 text-xs font-semibold text-gray-900 transition-colors duration-300 transform bg-white rounded hover:bg-gray-200 focus:bg-gray-400 focus:outline-none"><a href="/events/detail">Go to event</a></button>
                         </div>

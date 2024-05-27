@@ -61,7 +61,7 @@ class PageController extends Controller
     }
 
     public function viewEventDetail(){
-        return view('events/partials/event-detail', [
+        return view('events/event-detail', [
             'title' => "Event Detail"
         ]);
     }
