@@ -27,7 +27,7 @@
                     </h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Cara membersihkan pantai yang benar dan efektif. Mulai dari pemilahan sampah, alat yang relevan, dan koordinasi tim.
+                        How to clean the beach correctly and effectively. Starting from waste sorting, relevant tools, and team coordination.
                     </p>
 
                     <div class="flex items-center justify-between mt-4">
@@ -55,7 +55,7 @@
                         Getting Started with OceanPals</h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Cara menggunakan aplikasi ini “OceanPals” untuk menemukan kegiatan sukarelawan yang sesuai bagi mu dan memaksimalkan kontribusi masyarakat
+                        How to use this application “OceanPals” to find volunteer activities that are suitable for you and maximize community contribution
                     </p>
 
                     <div class="flex items-center justify-between mt-4">
@@ -84,7 +84,7 @@
                     </h1>
 
                     <p class="mt-2 text-gray-500 dark:text-gray-400">
-                        Pemahaman mendalam tentang sistem pemilahan sampah, mulai dari sampah organik, anorganik, dan banyak kategori sampah lainnya.
+                        In-depth understanding of waste sorting systems, starting from organic, inorganic and many other waste categories.
                     </p>
 
                     <div class="flex items-center justify-between mt-4">
