@@ -14,90 +14,90 @@
                 <li class="py-3 sm:py-4">
                     <div class="flex items-center">
                         <div class="flex-shrink-0">
-                            <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                            <img class="w-8 h-8 rounded-full" src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=880&h=880&q=100" alt="Neil image">
                         </div>
                         <div class="flex-1 min-w-0 ms-4">
                             <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
                                 Neil Sims
                             </p>
                             <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-                                email@windster.com
+                                sims.neil@gmail.com
                             </p>
                         </div>
                         <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                            $320
+                            7890 pt
                         </div>
                     </div>
                 </li>
                 <li class="py-3 sm:py-4">
                     <div class="flex items-center ">
                         <div class="flex-shrink-0">
-                            <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-3.jpg" alt="Bonnie image">
+                            <img class="w-8 h-8 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=687&h=687&q=80" alt="Bonnie image">
                         </div>
                         <div class="flex-1 min-w-0 ms-4">
                             <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
                                 Bonnie Green
                             </p>
                             <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-                                email@windster.com
+                                bonnie.green@gmail.com
                             </p>
                         </div>
                         <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                            $3467
+                            4750 pt
                         </div>
                     </div>
                 </li>
                 <li class="py-3 sm:py-4">
                     <div class="flex items-center">
                         <div class="flex-shrink-0">
-                            <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-2.jpg" alt="Michael image">
+                            <img class="w-8 h-8 rounded-full" src="https://images.unsplash.com/photo-1464863979621-258859e62245?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=686&h=686&q=80" alt="Michael image">
                         </div>
                         <div class="flex-1 min-w-0 ms-4">
                             <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
-                                Michael Gough
+                                Mia Howard
                             </p>
                             <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-                                email@windster.com
+                                mia.howard@gmail.com
                             </p>
                         </div>
                         <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                            $67
+                            2300 pt
                         </div>
                     </div>
                 </li>
                 <li class="py-3 sm:py-4">
                     <div class="flex items-center ">
                         <div class="flex-shrink-0">
-                            <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-4.jpg" alt="Lana image">
+                            <img class="w-8 h-8 rounded-full" src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&h=764&q=100" alt="Lana image">
                         </div>
                         <div class="flex-1 min-w-0 ms-4">
                             <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
                                 Lana Byrd
                             </p>
                             <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-                                email@windster.com
+                                lana.byrd@gmail.com
                             </p>
                         </div>
                         <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                            $367
+                            2000 pt
                         </div>
                     </div>
                 </li>
                 <li class="pt-3 pb-0 sm:pt-4">
                     <div class="flex items-center ">
                         <div class="flex-shrink-0">
-                            <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-5.jpg" alt="Thomas image">
+                            <img class="w-8 h-8 rounded-full" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=880&h=880&q=80" alt="Thomas image">
                         </div>
                         <div class="flex-1 min-w-0 ms-4">
                             <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
                                 Thomes Lean
                             </p>
                             <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-                                email@windster.com
+                                thomes.lean@gmail.com
                             </p>
                         </div>
                         <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                            $2367
+                            1500 pt
                         </div>
                     </div>
                 </li>

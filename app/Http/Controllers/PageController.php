@@ -6,11 +6,7 @@ use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
-    public function viewHome(){
-        return view('home', [
-            'title' => "Home"
-        ]);
-    }
+    // Account Related
 
     public function viewRegister(){
         return view('register', [
@@ -24,62 +20,90 @@ class PageController extends Controller
         ]);
     }
 
+    public function viewProfile(){
+        return view('/profile/profile', [
+            'title' => "Profile"
+        ]);
+    }
+
+    public function viewRanking(){
+        return view('/profile/ranking', [
+            'title' => "Ranking"
+        ]);
+    }
+
+    // Pages
+
+    public function viewHome(){
+        return view('home', [
+            'title' => "Home"
+        ]);
+    }
+
+    // Events    
+
     public function viewEvents(){
-        return view('events', [
+        return view('/events/events', [
             'title' => "Events"
         ]);
     }
 
     public function viewNewEvents(){
-        return view('new-event', [
+        return view('/events/new-event', [
             'title' => "New Event"
         ]);
     }
 
     public function viewEventDashboard(){
-        return view('event-dashboard', [
+        return view('/events/event-dashboard', [
             'title' => "Event Dashboard"
         ]);
     }
 
+    public function viewEventDetail(){
+        return view('events/partials/event-detail', [
+            'title' => "Event Detail"
+        ]);
+    }
+
+    public function viewChat(){
+        return view('/events/partials/chat', [
+            'title' => "Chat"
+        ]);
+    }
+
+    // Recruitment
+
     public function viewRecruitment(){
-        return view('recruitment', [
+        return view('/recruitment/recruitment', [
             'title' => "Recruitment"
         ]);
     }
 
-    public function viewStore(){
-        return view('store', [
-            'title' => "Store"
-        ]);
-    }
-
-    public function viewRanking(){
-        return view('ranking', [
-            'title' => "Ranking"
-        ]);
-    }
-
-    public function viewProfile(){
-        return view('profile', [
-            'title' => "Profile"
-        ]);
-    }
-
     public function viewRecruitmentDetail(){
-        return view('recruitment-detail', [
+        return view('/recruitment/recruitment-detail', [
             'title' => "Recruitment Detail"
         ]);
     }
 
+    // Store
+
+    public function viewStore(){
+        return view('/store/store', [
+            'title' => "Store"
+        ]);
+    }
+
+    // Training
+
     public function viewTraining(){
-        return view('training', [
+        return view('/training/training', [
             'title' => "Training"
         ]);
     }
 
     public function viewTrainingDetail(){
-        return view('training-detail', [
+        return view('/training/training-detail', [
             'title' => "Training Detail"
         ]);
     }

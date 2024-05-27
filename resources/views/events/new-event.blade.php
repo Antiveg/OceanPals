@@ -1,4 +1,4 @@
-@extends('layouts/maps_layout')
+@extends('layouts/main_layout')
 
 @section('container')
 <section class="bg-gradient-to-tr from-teal-50 to-blue-200 py-10 px-4">

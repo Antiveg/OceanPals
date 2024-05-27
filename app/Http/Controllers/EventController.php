@@ -22,7 +22,7 @@ class EventController extends Controller
     }
 
     public function showEvents(){
-        return view('events', [
+        return view('/events/events', [
             "title" => "Events",
             "events" => Events::all()
         ]);
@@ -39,6 +39,6 @@ class EventController extends Controller
             //'EventImage' => $imageContent // Save the file contents as LONGBLOB
         ]);
 
-        return redirect('events');
+        return redirect('/events/events');
     }
 }

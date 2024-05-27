@@ -39,10 +39,10 @@
                         <img src="/assets/volunteer/marketing-icon.svg" class="w-10" width="512" height="512" alt="burger illustration">
 
                         <div class="space-y-2">
-                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-yellow-600">Marketing Division</h5>
+                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-blue-700">Marketing Division</h5>
                             <p class="text-lg text-gray-600">This division represents the face of OceanPals. Your task is to promote the OceanPals activity and recruit new volunteers!</p>
                         </div>
-                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-yellow-600">
+                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-blue-700">
                             <span class="text-sm">Read more</span>
                             <span class="-translate-x-4 opacity-0 text-2xl transition duration-300 group-hover:opacity-100 group-hover:translate-x-0">&RightArrow;</span>
                         </a>
@@ -53,10 +53,10 @@
                         <img src="/assets/volunteer/beach-icon.svg" class="w-10" width="512" height="512" alt="burger illustration">
 
                         <div class="space-y-2">
-                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-yellow-600">Beach Combing Division</h5>
+                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-blue-700">Beach Combing Division</h5>
                             <p class="text-lg text-gray-600">Participate as the representative of OceanPals on cleaning the beach! Benefits you get are exclusive merchandise, bonus fees, and more!</p>
                         </div>
-                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-yellow-600">
+                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-blue-700">
                             <span class="text-sm">Read more</span>
                             <span class="-translate-x-4 opacity-0 text-2xl transition duration-300 group-hover:opacity-100 group-hover:translate-x-0">&RightArrow;</span>
                         </a>
@@ -67,10 +67,10 @@
                         <img src="/assets/volunteer/computer-icon.svg" class="w-10" width="512" height="512" alt="burger illustration">
 
                         <div class="space-y-2">
-                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-yellow-600">IT Development</h5>
+                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-blue-700">IT Development</h5>
                             <p class="text-lg text-gray-600">Help us maintain the integrity structures of our website! Ensuring there are no bugs and uneaseness for users</p>
                         </div>
-                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-yellow-600">
+                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-blue-700">
                             <span class="text-sm">Read more</span>
                             <span class="-translate-x-4 opacity-0 text-2xl transition duration-300 group-hover:opacity-100 group-hover:translate-x-0">&RightArrow;</span>
                         </a>
@@ -81,10 +81,10 @@
                         <img src="/assets/volunteer/event-icon.svg" class="w-10" width="512" height="512" alt="burger illustration">
 
                         <div class="space-y-2">
-                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-yellow-600">Event Organizer</h5>
+                            <h5 class="text-2xl text-gray-800 font-medium transition group-hover:text-blue-700">Event Organizer</h5>
                             <p class="text-lg text-gray-600">Envision your own plans by creating OceanPals events for beach cleaning! You could ask cooperation with other companies or by yourself</p>
                         </div>
-                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-yellow-600">
+                        <a href="/recruitment/detail" class="flex justify-between items-center group-hover:text-blue-700">
                             <span class="text-sm">Read more</span>
                             <span class="-translate-x-4 opacity-0 text-2xl transition duration-300 group-hover:opacity-100 group-hover:translate-x-0">&RightArrow;</span>
                         </a>

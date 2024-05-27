@@ -16,7 +16,7 @@
                 <div class="flex flex-col items-center max-w-lg mx-auto text-center">
                     <p class="text-sm font-medium text-blue-500 dark:text-blue-400">404 error</p>
                     <h1 class="mt-3 text-2xl font-semibold text-gray-800 dark:text-white md:text-3xl">We lost this page</h1>
-                    <p class="mt-4 text-gray-500 dark:text-gray-400">We searched high and low, but couldn’t find what you’re looking for.Let’s find a better place for you to go.</p>
+                    <p class="mt-4 text-gray-500 dark:text-gray-400">We searched high and low, but couldn’t find what you’re looking for. Let’s find a better place for you to go.</p>
     
                     <div class="flex items-center w-full mt-6 gap-x-3 shrink-0 sm:w-auto">
                         <button class="flex items-center justify-center w-1/2 px-5 py-2 text-sm text-gray-700 transition-colors duration-200 bg-white border rounded-lg dark:text-gray-200 gap-x-2 sm:w-auto dark:hover:bg-gray-800 dark:bg-gray-900 hover:bg-gray-100 dark:border-gray-700">
@@ -41,11 +41,11 @@
                             </svg>
                         </span>
                         
-                        <h3 class="mt-6 font-medium text-gray-700 dark:text-gray-200 ">Documentation</h3>
+                        <h3 class="mt-6 font-medium text-gray-700 dark:text-gray-200 ">Training Center</h3>
     
-                        <p class="mt-2 text-gray-500 dark:text-gray-400 ">Dive in to learn all about our product.</p>
+                        <p class="mt-2 text-gray-500 dark:text-gray-400 ">Dive in to learn all about eco-friendly</p>
     
-                        <a href="#" class="inline-flex items-center mt-4 text-sm text-blue-500 gap-x-2 dark:text-blue-400 hover:underline">
+                        <a href="/training" class="inline-flex items-center mt-4 text-sm text-blue-500 gap-x-2 dark:text-blue-400 hover:underline">
                             <span>Start learning</span>
     
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 rtl:rotate-180">
@@ -61,12 +61,12 @@
                             </svg>
                         </span>
                         
-                        <h3 class="mt-6 font-medium text-gray-700 dark:text-gray-200 ">Our blog</h3>
+                        <h3 class="mt-6 font-medium text-gray-700 dark:text-gray-200 ">Events</h3>
     
-                        <p class="mt-2 text-gray-500 dark:text-gray-400 ">Read the latest posts on our blog.</p>
+                        <p class="mt-2 text-gray-500 dark:text-gray-400 ">Find the latest events on OceanPals</p>
     
-                        <a href="#" class="inline-flex items-center mt-4 text-sm text-blue-500 gap-x-2 dark:text-blue-400 hover:underline">
-                            <span>View lastest posts</span>
+                        <a href="/events" class="inline-flex items-center mt-4 text-sm text-blue-500 gap-x-2 dark:text-blue-400 hover:underline">
+                            <span>View events</span>
     
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 rtl:rotate-180">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
@@ -81,12 +81,12 @@
                             </svg>
                         </span>
                         
-                        <h3 class="mt-6 font-medium text-gray-700 dark:text-gray-200 ">Chat to us</h3>
+                        <h3 class="mt-6 font-medium text-gray-700 dark:text-gray-200 ">Volunteers</h3>
     
-                        <p class="mt-2 text-gray-500 dark:text-gray-400 ">Can’t find what you’re looking for?</p>
+                        <p class="mt-2 text-gray-500 dark:text-gray-400 ">Want to be part of OceanPals?</p>
     
-                        <a href="#" class="inline-flex items-center mt-4 text-sm text-blue-500 gap-x-2 dark:text-blue-400 hover:underline">
-                            <span>Chat to our team</span>
+                        <a href="/recruitment" class="inline-flex items-center mt-4 text-sm text-blue-500 gap-x-2 dark:text-blue-400 hover:underline">
+                            <span>Apply as a team</span>
     
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 rtl:rotate-180">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
