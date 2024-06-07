@@ -12,7 +12,7 @@
                 Event
             </a>
             <h1 class="text-gray-900 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">My Current Events</h1>
-            <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Currently you don't have any active events right now</p>
+            {{-- <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-6">Currently you don't have any active events right now</p> --}}
             
             {{-- masukin active event --}}
             <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800 mb-6">
@@ -25,13 +25,13 @@
             
                 <div class="flex items-center justify-between px-4 py-2 bg-blue-700">
                     <h1 class="text-lg font-bold text-white">100 Points</h1>
-                    <button class="px-2 py-1 text-xs font-semibold text-gray-900    transition-colors duration-300 transform bg-white rounded hover:bg-gray-200 focus:bg-gray-400 focus:outline-none"><a href="/events/dashboard">Go to Event</a></button>
+                    {{-- <button class="px-2 py-1 text-xs font-semibold text-gray-900    transition-colors duration-300 transform bg-white rounded hover:bg-gray-200 focus:bg-gray-400 focus:outline-none"><a href="/events/dashboard">Go to Event</a></button> --}}
                 </div>
             </div>
             
             {{-- tombol event --}}
-            <a href="/events" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
-                Join/Create Event
+            <a href="/events/dashboard" class="inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+                Go to Event
                 <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                 </svg>
